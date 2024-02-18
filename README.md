@@ -10,8 +10,7 @@
 ## Контакты для связи:
 [<img align="left" alt="opa_oz | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/stierlitss)
 
-[<img align="left" alt="opa_oz | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />](https://stierlitss@yandex.ru)
-
+[stierlitss\@yandex.ru](mailto:stierlitss@yandex.ru?subject=GithubProfile)
 <br />
 
 ## Языки и инстументы:
