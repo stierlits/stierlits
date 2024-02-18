@@ -7,8 +7,9 @@
 
 -В прошлом работала инженером.
 
-## Контакт для связи:
+## Контактs для связи:
 [<img align="left" alt="opa_oz | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/stierlitss)
+телефон: 89264660135
 
 <br />
 
