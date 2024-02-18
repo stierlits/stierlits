@@ -10,7 +10,7 @@
 ## Контакты для связи:
 [<img align="left" alt="opa_oz | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/stierlitss)
 
-телефон: 89264660135
+[<img align="left" alt="opa_oz | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />](https://stierlitss@yandex.ru)
 
 <br />
 
